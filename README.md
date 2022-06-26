@@ -3,6 +3,7 @@
 <!---- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on:--->
 - 📫 contact me at: zperezedgar@gmail.com
+- https://www.linkedin.com/in/zperezedgar/
 
 <!---
 zperezedgar/zperezedgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
