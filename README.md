@@ -4,9 +4,9 @@
 - https://play.google.com/store/apps/developer?id=DSM+Services
 - https://apps.apple.com/us/developer/edgar-zuniga/id1647129574
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/zperezedgar/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zperezedgar&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zperezedgar)](https://github.com/zperezedgar/github-readme-stats)
 
 <!----
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
