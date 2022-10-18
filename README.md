@@ -1,8 +1,13 @@
+<h3 align="left">About me:</h3>
+
 - 👋 Hi, I’m @zperezedgar and I'm from 🇲🇽
 - 👀 I’m interested in Deep Learning / Android & iOS Development
+- I have an MS in Physics
 
-- Checkout some of my personal projects at:
+<h3 align="left">Checkout some of my personal projects at:</h3>
+
 - https://play.google.com/store/apps/developer?id=DSM+Services
+
 - https://apps.apple.com/us/developer/edgar-zuniga/id1647129574
 
 <h3 align="left">Languages and Tools:</h3>
