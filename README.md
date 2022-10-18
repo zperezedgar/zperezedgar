@@ -4,12 +4,13 @@
 - https://play.google.com/store/apps/developer?id=DSM+Services
 - https://apps.apple.com/us/developer/edgar-zuniga/id1647129574
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zperezedgar&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zperezedgar&count_private=true&show_icons=true)
 
 
 <!---- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on:--->
-- 📫 contact me at: zperezedgar@gmail.com
+- 📫 contact me at: 
+- zperezedgar@gmail.com
 - https://www.linkedin.com/in/zperezedgar/
 
 <!---
