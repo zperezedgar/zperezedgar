@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @zperezedgar and I'm from 🇲🇽
 - 👀 I’m interested in Deep Learning / Android & iOS Development
 - 📕 I have an MS in Physics
-- I speak spanish 🇪🇸, english 🇺🇸, and French 🇫🇷
+- I speak spanish 🇪🇸, english 🇺🇸, and french 🇫🇷
 
 <h3 align="left">Checkout some of my personal projects at:</h3>
 
