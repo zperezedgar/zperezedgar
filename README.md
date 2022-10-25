@@ -1,7 +1,7 @@
 <h3 align="left">About me:</h3>
 
 - 👋 Hi, I’m @zperezedgar and I'm from 🇲🇽
-- 👀 I’m interested in Deep Learning / Android & iOS Development
+- 👀 I’m interested in Deep Learning, Computer Vision, Data Science, and Android & iOS Development
 - 📕 I have an MS in Physics
 - I speak spanish 🇪🇸, english 🇺🇸, and french 🇫🇷
 
