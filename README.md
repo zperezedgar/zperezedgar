@@ -7,7 +7,7 @@
 
 <h3 align="left">Checkout some of my personal projects at:</h3>
 
-- https://play.google.com/store/apps/developer?id=DSM+Services
+- https://play.google.com/store/apps/dev?id=7402140109025000437
 
 - https://apps.apple.com/us/developer/edgar-zuniga/id1647129574
 
