@@ -1,8 +1,9 @@
 <h3 align="left">About me:</h3>
 
 - 👋 Hi, I’m @zperezedgar and I'm from 🇲🇽
-- 👀 I’m a Machine Learning Engineer and an Android/iOS Developer
-- 🎓 I am a Ph.D. Candidate in Physics
+- 🧑‍🔬 Applied Scientist II @ Microsoft
+- 👀 Passionate about Machine Learning and Android/iOS Development
+- 🎓 Ph.D. in Physics
 - 💬 I speak Spanish, English, and French
 
 <h3 align="left">Checkout some of my personal projects at:</h3>
